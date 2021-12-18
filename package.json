@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "sh ./deploy.sh"
   },
   "dependencies": {
     "ant-design-vue": "^1.7.8",
@@ -15,7 +16,8 @@
     "vue": "^2.6.11",
     "vue-codemirror": "^4.0.6",
     "vue-echarts": "^6.0.0",
-    "vue-loader": "^15.9.8"
+    "vue-loader": "^15.9.8",
+    "vue-router": "^3.5.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

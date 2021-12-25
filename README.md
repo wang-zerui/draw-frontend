@@ -1,4 +1,4 @@
-# my-app
+# 西电编译原理会语言解释器前端
 
 ## Project setup
 ```
